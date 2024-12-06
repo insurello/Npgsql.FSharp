@@ -1,4 +1,6 @@
-# Npgsql.FSharp [![Nuget](https://img.shields.io/nuget/v/Npgsql.FSharp.svg?colorB=green)](https://www.nuget.org/packages/Npgsql.FSharp)
+This is a fork of [Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp). We updated to Npgsql 7.0.9 to fix [this vulnerability](https://github.com/advisories/GHSA-x9vc-6hfv-hg8c).
+
+# Insurello.Npgsql.FSharp [![Nuget](https://img.shields.io/nuget/v/Insurello.Npgsql.FSharp.svg?colorB=green)](https://www.nuget.org/packages/Insurello.Npgsql.FSharp)
 
 Thin F#-friendly layer for the [Npgsql](https://github.com/npgsql/npgsql) data provider for PostgreSQL.
 
@@ -9,10 +11,10 @@ Read the full documentation at [zaid-ajaj.github.io/Npgsql.FSharp](https://zaid-
 ### Install from nuget
 ```bash
 # using dotnet CLI
-dotnet add package Npgsql.FSharp
+dotnet add package Insurello.Npgsql.FSharp
 
 # using Paket
-paket add Npgsql.FSharp --group Main
+paket add Insurello.Npgsql.FSharp --group Main
 ```
 
 ### Start using the library
