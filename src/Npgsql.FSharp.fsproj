@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Description>Thin functional F# layer around Npgsql, the PostgreSQL database driver.</Description>
+    <PackageId>Insurello.Npgsql.FSharp</PackageId>
+    <Description>Fork of: "Npgsql.FSharp" with vulnerability fix.</Description>
     <PackageProjectUrl>https://github.com/Zaid-Ajaj/Npgsql.FSharp</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Zaid-Ajaj/Npgsql.FSharp.git</RepositoryUrl>
     <PackageLicense>https://github.com/Zaid-Ajaj/Npgsql.FSharp/blob/master/LICENSE</PackageLicense>
